@@ -1,0 +1,6 @@
+project: rnshah9/ffmpeg
+target: ffmpeg
+tests: null
+
+cmds:
+  - cmd: /repo/ffprobe @@
