@@ -1,5 +1,5 @@
 project: rnshah9/ffmpeg
-target: ffmpeg
+target: ffprobe
 tests: null
 
 cmds:
