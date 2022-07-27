@@ -2,4 +2,4 @@ project: ffmpeg
 target: ffprobe
 
 cmds:
-  - cmd: /repo/ffprobe @@
+  - cmd: /install/bin/ffprobe @@
