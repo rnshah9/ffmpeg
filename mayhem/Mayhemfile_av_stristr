@@ -1,0 +1,5 @@
+project: ffmpeg
+target: av-stristr
+
+cmds:
+  - cmd: /fuzz_av_stristr
